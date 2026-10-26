@@ -1,0 +1,10 @@
+{
+  "name": "ict-study-room",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "python3 start.py",
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check.mjs"
+  }
+}
